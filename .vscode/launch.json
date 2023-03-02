@@ -5,18 +5,18 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "layer_architecture_template",
+            "name": "flutter_splash_sample",
             "request": "launch",
             "type": "dart"
         },
         {
-            "name": "layer_architecture_template (profile mode)",
+            "name": "flutter_splash_sample (profile mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "profile"
         },
         {
-            "name": "layer_architecture_template (release mode)",
+            "name": "flutter_splash_sample (release mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "release"

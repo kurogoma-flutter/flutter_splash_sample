@@ -1,4 +1,4 @@
-# layer_architecture_template
+# flutter_splash_sample
 
 A new Flutter project.
 

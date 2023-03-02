@@ -1,6 +1,6 @@
 {
-    "name": "layer_architecture_template",
-    "short_name": "layer_architecture_template",
+    "name": "flutter_splash_sample",
+    "short_name": "flutter_splash_sample",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

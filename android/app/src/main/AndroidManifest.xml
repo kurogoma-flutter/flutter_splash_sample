@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.layer_architecture_template">
+    package="com.example.flutter_splash_sample">
    <application
-        android:label="layer_architecture_template"
+        android:label="flutter_splash_sample"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

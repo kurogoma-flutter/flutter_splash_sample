@@ -1,4 +1,4 @@
-package com.example.layer_architecture_template
+package com.example.flutter_splash_sample
 
 import io.flutter.embedding.android.FlutterActivity
 
